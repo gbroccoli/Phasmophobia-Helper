@@ -1,0 +1,16 @@
+.clues_1,
+.clues_2,
+.clues_3,
+.clues_4,
+.clues_5,
+.clues_6,
+.clues_7,
+.clues_8,
+.clues_9 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    box-shadow: 0px 4px 4px 0px rgba(208, 208, 208, 0.25);
+    cursor: pointer;
+}
